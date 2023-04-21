@@ -1,0 +1,31 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  
+  .float-right {
+    float: right;
+  }
+  .float-left {
+    float: left;
+  }
+  button {
+    border: none;
+    padding: 8px;
+    margin-right: 2px;
+  }
+  .blue {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 8px;
+  }
+  .green {
+    background-color: darkolivegreen;
+    color: white;
+  }
+  .btn-toolbar {
+    padding-bottom: 10px;
+    /* margin: auto; */
+  }
+  
